@@ -1,0 +1,19 @@
+.odd-line {
+    background-color: #ee82ee;
+    font: sans-serif;
+}
+
+#line-2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#line-4 {
+    background-color: #3cb371;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bigger {
+    font-size: 24px;
+}
