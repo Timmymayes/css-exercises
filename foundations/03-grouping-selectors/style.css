@@ -1,0 +1,15 @@
+/*  style. */
+.top,
+.bottom {
+    font-size: 28px;
+    font: Helvetica, "Times New Roman", sans-serif;
+}
+
+.top {
+    background-color: #000000;
+    color: white;
+}
+.bottom {
+    background-color: yellow;
+}
+       
